@@ -1,7 +1,7 @@
 
 module.exports = {
   // The repo name for your Prismic repository (found in the url of your repo: https://test-gatsby-cloud-manual5.prismic.io/)
-  prismicRepo: 'multi-language-example',
+  prismicRepo: 'test-gatsby-cloud-manual5',
 
   // For prismic theme command <https://user-guides.prismic.io/en/articles/764581-how-to-create-a-theme-to-quickstart-your-projects-for-prismic>
 
